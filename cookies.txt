@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+blogosphere.cmsmasters.net	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+blogosphere.cmsmasters.net	TRUE	/	FALSE	1999999999	wp_woocommerce_session_d35c5cdaef97024d9fd73b325a7622ba	t_865f6c574be2d01742f1153d90040c%7C%7C1669464161%7C%7C1669460561%7C%7Ca9f51d77100614a48dae3d34d797f010
+blogosphere.cmsmasters.net	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	0efe9bb12544b3722c80e8bdea88bb82
+

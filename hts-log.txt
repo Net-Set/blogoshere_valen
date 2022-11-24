@@ -1,0 +1,107 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 24 Nov 2022 17:30:11 at https://blogosphere.cmsmasters.net/fashion/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://blogosphere.cmsmasters.net/fashion/ -O1 "C:\My Web Sites\blogoshere_valen" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:31:07	Error: 	"Forbidden" (403) at link https://blogosphere.cmsmasters.net/fashion/xmlrpc.php (from https://blogosphere.cmsmasters.net/fashion/)
+17:31:18	Error: 	"Forbidden" (403) at link https://blogosphere.cmsmasters.net/fashion/xmlrpc.php?rsd (from https://blogosphere.cmsmasters.net/fashion/)
+17:34:17	Error: 	"Bad Request" (400) at link https://blogosphere.cmsmasters.net/fashion/wp-admin/admin-ajax.php (from https://blogosphere.cmsmasters.net/fashion/)
+17:34:21	Warning: 	File not parsed, looks like binary: https://blogosphere.cmsmasters.net/fashion/wp-content/themes/blogosphere/img/ilightbox/closedhand.cur
+17:34:21	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=8946
+17:34:21	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=8946 to https://blogosphere.cmsmasters.net/fashion/about-me/
+17:34:21	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=13392
+17:34:21	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=13392 to https://blogosphere.cmsmasters.net/fashion/2017/09/01/tactics-for-avoiding-the-comparison-trap/
+17:34:37	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=8036
+17:34:37	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=8036 to https://blogosphere.cmsmasters.net/fashion/2017/09/10/7-lessons-learned-on-fashion-photography-shoot/
+17:34:49	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=1965
+17:34:49	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=1965 to https://blogosphere.cmsmasters.net/fashion/2017/09/06/fashion-and-beauty-tips-every-woman/
+17:34:53	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=13397
+17:34:53	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=13397 to https://blogosphere.cmsmasters.net/fashion/2017/09/03/how-to-be-more-creative/
+17:34:53	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=13402
+17:34:53	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=13402 to https://blogosphere.cmsmasters.net/fashion/2017/09/04/husky-rescue-new-light-of-tomorrow/
+17:34:53	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=882
+17:34:53	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=882 to https://blogosphere.cmsmasters.net/fashion/standard-blog/
+17:35:09	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=887
+17:35:09	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=887 to https://blogosphere.cmsmasters.net/fashion/masonry-blog/
+17:35:09	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=889
+17:35:09	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=889 to https://blogosphere.cmsmasters.net/fashion/timeline-blog/
+17:35:09	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=13781
+17:35:09	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=13781 to https://blogosphere.cmsmasters.net/fashion/side-blog/
+17:35:09	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=13382
+17:35:09	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=13382 to https://blogosphere.cmsmasters.net/fashion/puzzle-blog/
+17:35:09	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=74
+17:35:09	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=74 to https://blogosphere.cmsmasters.net/fashion/grid-blog/
+17:36:20	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=11986
+17:36:20	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=11986 to https://blogosphere.cmsmasters.net/fashion/typography-2/
+17:36:20	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=11850
+17:36:20	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=11850 to https://blogosphere.cmsmasters.net/fashion/contacts/
+17:36:20	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=285
+17:36:20	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=285 to https://blogosphere.cmsmasters.net/fashion/2017/09/28/fashion-hats-shopping-styling-tips/
+17:36:21	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=103
+17:36:21	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=103 to https://blogosphere.cmsmasters.net/fashion/2017/09/26/stylish-accessories-for-getting-high-photos/
+17:36:21	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=13095
+17:36:21	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=13095 to https://blogosphere.cmsmasters.net/fashion/2017/09/24/all-the-best-street-style-moments/
+17:36:37	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=2938
+17:36:37	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=2938 to https://blogosphere.cmsmasters.net/fashion/2017/09/24/top-10-photo-shoot-locations-near-you/
+17:36:41	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=10736
+17:36:41	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=10736 to https://blogosphere.cmsmasters.net/fashion/2017/09/22/2018-fashion-trends-guide-to-spring-styles/
+17:36:41	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=87
+17:36:41	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=87 to https://blogosphere.cmsmasters.net/fashion/2017/09/20/what-to-consider-when-designing-a-store-layout/
+17:36:41	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/2/
+17:36:41	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/2/ to https://blogosphere.cmsmasters.net/fashion/2017/09/22/2018-fashion-trends-guide-to-spring-styles/
+17:36:41	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/page/1/
+17:36:41	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/page/1/ to https://blogosphere.cmsmasters.net/fashion/
+17:36:43	Error: 	"Not Found" (404) at link https://blogosphere.cmsmasters.net/fashion/4/ (from https://blogosphere.cmsmasters.net/fashion/page/4/)
+17:36:43	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=619
+17:36:43	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=619 to https://blogosphere.cmsmasters.net/fashion/project/mens-fashion/
+17:36:48	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=617
+17:36:48	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=617 to https://blogosphere.cmsmasters.net/fashion/project/fashion-look/
+17:36:48	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=913
+17:36:48	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=913 to https://blogosphere.cmsmasters.net/fashion/project/fashion-accessories/
+17:36:48	Warning: 	File not parsed, looks like binary: https://blogosphere.cmsmasters.net/fashion/wp-content/plugins/revslider/public/assets/css/openhand.cur
+17:36:48	Warning: 	File not parsed, looks like binary: https://blogosphere.cmsmasters.net/fashion/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+17:36:48	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=613
+17:36:48	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=613 to https://blogosphere.cmsmasters.net/fashion/project/casual-look/
+17:36:48	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=611
+17:36:48	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=611 to https://blogosphere.cmsmasters.net/fashion/project/shooting-video/
+17:36:54	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=9410
+17:36:54	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=9410 to https://blogosphere.cmsmasters.net/fashion/project/subject-photography/
+17:36:54	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=106
+17:36:54	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=106 to https://blogosphere.cmsmasters.net/fashion/2017/09/08/mens-style-guide-tips-fashion-advice/
+17:36:54	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=13099
+17:36:54	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=13099 to https://blogosphere.cmsmasters.net/fashion/2017/09/13/spring-2018-trend-knot-everything-you-can/
+17:36:54	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=13101
+17:36:54	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=13101 to https://blogosphere.cmsmasters.net/fashion/2017/09/18/12-beauty-tips-from-backstage-fashion-show/
+17:36:54	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=13097
+17:36:54	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=13097 to https://blogosphere.cmsmasters.net/fashion/2017/09/15/mens-fashion-tips-and-style-guide-for-2018/
+17:36:54	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/masonry-blog/page/1/
+17:36:54	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/masonry-blog/page/1/ to https://blogosphere.cmsmasters.net/fashion/masonry-blog/
+17:36:54	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/grid-blog/page/1/
+17:36:54	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/grid-blog/page/1/ to https://blogosphere.cmsmasters.net/fashion/grid-blog/
+17:36:54	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=1665
+17:36:54	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=1665 to https://blogosphere.cmsmasters.net/fashion/product/camera/
+17:36:55	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=3840
+17:36:55	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=3840 to https://blogosphere.cmsmasters.net/fashion/cart/
+17:36:55	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=1667
+17:36:55	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=1667 to https://blogosphere.cmsmasters.net/fashion/product/indoor-flower/
+17:36:56	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=1666
+17:36:56	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=1666 to https://blogosphere.cmsmasters.net/fashion/product/modern-glasses/
+17:36:58	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=1668
+17:36:58	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=1668 to https://blogosphere.cmsmasters.net/fashion/product/spherical-vase/
+17:36:59	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=1664
+17:36:59	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=1664 to https://blogosphere.cmsmasters.net/fashion/product/style-set/
+17:36:59	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=1663
+17:36:59	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=1663 to https://blogosphere.cmsmasters.net/fashion/product/watch/
+17:37:01	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/author/cmsmasters/page/1/
+17:37:01	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/author/cmsmasters/page/1/ to https://blogosphere.cmsmasters.net/fashion/author/cmsmasters/
+17:37:02	Error: 	"Not Found" (404) at link https://blogosphere.cmsmasters.net/fashion/3/ (from https://blogosphere.cmsmasters.net/fashion/page/3/)
+17:37:02	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=8414
+17:37:02	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=8414 to https://blogosphere.cmsmasters.net/fashion/project/evening-dresses/
+17:37:02	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/fashion/?p=606
+17:37:02	Warning: 	File has moved from https://blogosphere.cmsmasters.net/fashion/?p=606 to https://blogosphere.cmsmasters.net/fashion/project/womens-outerwear/
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 54 seconds : 727 links scanned, 677 files written (41113155 bytes overall) [17031656 bytes received at 41139 bytes/sec], 29636229 bytes transferred using HTTP compression in 398 files, ratio 17%, 12.9 requests per connection
+(5 errors, 91 warnings, 0 messages)
